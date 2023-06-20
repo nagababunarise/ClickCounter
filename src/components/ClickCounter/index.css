@@ -1,0 +1,31 @@
+.bg-container {
+  color: white;
+  font-family: 'Roboto';
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #2d3a35;
+  font-weight: bold;
+  font-size: 40px;
+}
+.paragraph {
+  color: #2d3a35;
+}
+.span {
+  color: #c20a72;
+  font-weight: bold;
+  font-size: 45px;
+}
+.button {
+  background-color: rgba(45, 45, 240, 0.527);
+  color: white;
+  font-family: 'Roboto';
+  border-width: 0px;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+}
